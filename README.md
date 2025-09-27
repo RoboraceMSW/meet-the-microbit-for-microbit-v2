@@ -1,3 +1,8 @@
+Source:
+[https://microbit.org/get-started/user-guide/meet-the-microbit-program/]
+
+Download .hex file directly from:
+[https://microbit.org/get-started/getting-started/power-up-and-play/?microbit=v2&welcomeProgram=old&actions=optionTwo]
 
 > Open deze pagina op [https://roboracemsw.github.io/meet-the-microbit-for-microbit-v2/](https://roboracemsw.github.io/meet-the-microbit-for-microbit-v2/)
 
