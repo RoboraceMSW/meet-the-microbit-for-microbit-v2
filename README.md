@@ -1,5 +1,5 @@
 Source:</p>
-[https://microbit.org/get-started/user-guide/meet-the-microbit-program/]
+[Microbit.org](https://microbit.org/get-started/user-guide/meet-the-microbit-program/)
 
 Download .hex file directly from:</p>
 [https://microbit.org/get-started/getting-started/power-up-and-play/?microbit=v2&welcomeProgram=old&actions=optionTwo]
