@@ -1,3 +1,8 @@
+## Meet the Micro:bit for Micro:bit v2
+<br/>
+<img src="./microbit_beating_heart.webp" width="50%" height="50%">
+<br/>
+
 Source:</p>
 [Microbit.org](https://microbit.org/get-started/user-guide/meet-the-microbit-program/)
 
