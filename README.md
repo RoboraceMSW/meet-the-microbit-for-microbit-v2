@@ -9,5 +9,3 @@ Source:</p>
 Download .hex file directly from:</p>
 [Meet the Microbit](https://microbit.org/get-started/getting-started/power-up-and-play/?microbit=v2&welcomeProgram=old&actions=optionTwo).hex
 
-> Open deze pagina op [https://roboracemsw.github.io/meet-the-microbit-for-microbit-v2/](https://roboracemsw.github.io/meet-the-microbit-for-microbit-v2/)
-
